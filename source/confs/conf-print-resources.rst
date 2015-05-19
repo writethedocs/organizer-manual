@@ -1,7 +1,7 @@
 .. _conf-print-resources:
 
-Designs
-=======
+Print Resources
+===============
 
 This section describes how to:
 

@@ -12,7 +12,12 @@ This section includes the following topics:
 .. toctree::
    
    conf-checklist
-   conf-print-resources
-   conf-web-resources
+   conf-orgteam
+   conf-budget
+   conf-venues-logistics
    conf-sponsorship
+   conf-cfp
+   conf-tickets
+   conf-web-resources
+   conf-print-resources
    ...
