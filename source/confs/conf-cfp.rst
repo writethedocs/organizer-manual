@@ -133,3 +133,8 @@ you can shuffle speakers who you know are good to the following slots:
 * Talk after lunch (should be high energy)
 * Last talk of the day (should be memorable)
 
+After this,
+you send each speaker their time slot,
+and confirm it works for them.
+Give them a couple days to make changes,
+then we can publish the schedule.
