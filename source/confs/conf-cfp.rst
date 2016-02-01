@@ -1,7 +1,7 @@
 .. _conf-cfp:
 
-CFP
-===
+Speakers and Call for Proposals
+===============================
 
 This section describes how to:
 
@@ -138,3 +138,11 @@ you send each speaker their time slot,
 and confirm it works for them.
 Give them a couple days to make changes,
 then we can publish the schedule.
+
+Biases
+------
+
+* New people
+* Community members
+* Previous lighting talk speakers
+* 
