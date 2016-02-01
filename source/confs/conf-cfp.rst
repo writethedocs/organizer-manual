@@ -49,6 +49,8 @@ and probably again in person.
 Speaker Acceptence Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. code-block:: jinja
+
 	{{ name }},
 
 	Our talk selection committee has just wrapped up proposal review and we would
