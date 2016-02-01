@@ -43,10 +43,10 @@ Speaker Communication
 
 Like everyone,
 most speakers don't really read their email.
-This means you need to tell them everything improtant at least twice,
+This means you need to tell them everything important at least twice,
 and probably again in person.
 
-Speaker Acceptence Template
+Speaker Acceptance Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: jinja
@@ -110,6 +110,15 @@ Speaker Acceptence Template
 
 Speaker Rejection Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This template varies by the rejection.
+We reject folks in a couple different rounds,
+which I'll document here. 
+
+
+.. code-block:: jinja
+	
+	TODO
 
 
 Building a Schedule
