@@ -17,7 +17,8 @@ This section includes the following topics:
    conf-venues-logistics
    conf-sponsorship
    conf-cfp
+   conf-communication
    conf-tickets
+   conf-volunteers
    conf-web-resources
    conf-print-resources
-   ...

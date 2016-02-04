@@ -15,7 +15,6 @@ This guide covers the following types of Write the Docs events:
 .. toctree::
    
    confs/conf-overview
-   ...
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
 
