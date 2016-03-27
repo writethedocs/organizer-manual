@@ -7,6 +7,7 @@ Logistics
 ---------------
 
 Recruitment: 
+
 * Timing - start recruitment when registration opens. Historically there has been an option to "purchase" a volunteer ticket; this has been mostly successful in recruiting the number of volunteers needed to cover shifts.
 * Number - historically around 10 to 12 volunteers, depending on the number of shifts and duties.
 
