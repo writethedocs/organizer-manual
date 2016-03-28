@@ -31,6 +31,7 @@ This section walks you through a timeline of the main tasks of conference-organi
 * Satellite events
 * Order swag
 * Finalize food
+* Verify all volunteers
 
 2 weeks before
 --------------
