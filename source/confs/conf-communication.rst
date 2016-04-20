@@ -38,5 +38,6 @@ The process is:
 * Copy HTML from the blog post
 * Remove Post title & Header links from the blog post (Regex is ``<a class="headerlink" .+</a>`` for search & replace)
 * Paste HTML into MailChimp "Code" editor
+* Remember to edit the Preview text in the Design tab
 * Send a test email to yourself from MailChimp
 * Once everything looks good, hit the **big button**
