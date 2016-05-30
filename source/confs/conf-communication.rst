@@ -18,7 +18,8 @@ Emails to send
 * Keynotes (if applicable)
 * CFP reminder (1 week out)
 * Proposals
-* Auxilary events (Hike, Writing Day, Reception, Party)
+* Auxiliary events (Hike, Writing Day, Reception, Party)
+* Thank you
 
 Each email will continue to list additional sponsors added to the conference.
 
@@ -26,6 +27,8 @@ Email content
 -------------
 
 It's easy to forget a key element while writing an email. Here's a description of what every type of email should content.
+
+If relevant, you should always mention your CFP (deadline and link to it) and your sponsors at the end of your emails.
 
 Date Announcement
 ~~~~~~~~~~~~~~~~~
@@ -38,8 +41,8 @@ Date Announcement
 
 `Date announcement` emails from previous WTD conferences:
 
-* `WTD NA 2016 <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-2016.md>`_
-* `WTD NA 2015 <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
+* `WTD NA 2016 Announcement <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-2016.md>`_
+* `WTD NA 2015 Announcement <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
 
 Call for Proposals
 ~~~~~~~~~~~~~~~~~~
@@ -52,26 +55,49 @@ Call for Proposals
 * **"Question?":** How people should contact you.
 * **"Submit a Proposal":** Link or form where people can send their proposal.
 
-If you want to do a `CFP reminder` email, make it small and with essential info: end of the CFP, where potential speakers can find help and previous examples.
-
 `Call for Proposals` emails from previous WTD conferences:
 
-* `WTD NA 2016 <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
-* `WTD NA 2015 <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
-* `WTD EU 2016 <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
-* `WTD EU 2015 <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
-* `WTD NA 2016 CFP reminder <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-reminder.md>`_
+* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
+* `WTD NA 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
+* `WTD EU 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
+* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
 
 
 Ticket Prices
 ~~~~~~~~~~~~~
 
+* **"Announcing Ticket Sales":** Write a small introduction which include when is happening the conference and a link to its website.
+* **"Tickets":** Describe your price policy and, if relevant, if you have any scholarship tickets.
+* **"Ticket Sales":** List your different tickets (corporate, independent, student) on normal and early bird prices. Don't forget to describe our your early bird price works.
+* **"Conclusion":** Say a few nice words :)
+
+`Tickets` emails from previous WTD conferences:
+
+* `WTD NA 2016 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-tickets.rst>`_
+* `WTD EU 2015 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-tickets.md>`_
+
+
 Keynotes (if applicable)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* CFP reminder (1 week out)
-* Proposals
-* Auxilary events (Hike, Writing Day, Reception, Party)
+CFP reminder (1 week out)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Make it small: end of the CFP, where potential speakers can find help and previous examples. It's also a good place to mention your sponsors.
+
+`Call for Proposals reminder` emails from previous WTD conferences:
+
+* `WTD NA 2016 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-reminder.md>`_
+
+Proposals
+~~~~~~~~~
+
+Auxiliary events
+~~~~~~~~~~~~~~~~
+
+Thank you
+~~~~~~~~~
+
 
 How to send email
 -----------------
