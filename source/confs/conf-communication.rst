@@ -27,8 +27,8 @@ Email content
 
 It's easy to forget a key element while writing an email. Here's a description of what every type of email shoudl content.
 
-Date Annoucement
-~~~~~~~~~~~~~~~~
+Date Announcement
+~~~~~~~~~~~~~~~~~
 
 **Introduction:**
 
@@ -56,6 +56,10 @@ Don't forget to ask for sponsors!
 Write a small conclusion: make everyone (programmers, writers, designers, etc) feel welcomed.
 Don't forget to mention the CFP: if you have a date already, perfect, if not "soon" and an invitation to start gathering ideas will do.
 
+Date announcement emails from previous WTD conferences:
+
+* `WTD NA 2016 <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-2016.md>`_
+* `WTD NA 2015 <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
 
 Call for Proposals
 ~~~~~~~~~~~~~~~~~~
@@ -90,13 +94,3 @@ The process is:
 * Remember to edit the Preview text in the Design tab
 * Send a test email to yourself from MailChimp
 * Once everything looks good, hit the **big button**
-
-
-Email from previous conferences
--------------------------------
-
-Date annoucement
-~~~~~~~~~~~~~~~~
-
-.. _WTD NA 2016: https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-2016.md
-.. _WTD NA 2015: https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md
