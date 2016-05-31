@@ -35,7 +35,7 @@ To help you get a better idea of what you need to write, we've put links to prev
 Date Announcement
 ~~~~~~~~~~~~~~~~~
 
-* **"Date Announcement for [conf name]":** Write a small welcoming message with the date and place of the conference and just enough details to get people excited
+* **"Date Announcement for WTD":** Write a small welcoming message with the date and place of the conference and just enough details to get people excited
 * **"The Conference":** Make a short description of the conference. Describe the spirit of the event and mention topics from previous WTD conferences. Use the end of this section to give more details about your venue (link to website and location on a map) and schedule.
 * **"Auxiliary Events":** List auxiliary activities (hike, city tours, social events, etc) that will be held during the conference. Give a short description for each entry.
 * **"While you're Waiting":** People should now be excited and will want to know more info that what you've provided. Give info on how to reach you and how to get future news (mailing list, Twitter, etc). Don't forget to ask for sponsors!
@@ -120,11 +120,32 @@ Depending of what you plan, you will need to give different kind of info:
 Welcome
 ~~~~~~~
 
+* **"Welcome to WTD":** Say hi and make any last minute announcements you need to.
+* **"How to Enjoy WTD":** List every piece of info people need to know (food during the event, Code of Conduct, auxiliary events and how to register, hashtag for the conference, etc).
+* **"Get Excited!":** Small conclusion and kind words.
 
+`Welcome` emails from previous WTD conferences:
+
+* `WTD NA 2016 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/pre-conf-info.md>`_
+* `WTD NA 2015 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/welcome-to-write-the-docs.md>`_
+* `WTD EU 2015 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/pre-conf-info.md>`_
 
 
 Thank you
 ~~~~~~~~~
+
+* **"Thank you":** Give stats if you have any and thank people for coming.
+* **"Survey":** Put a link to attendees survey if relevant.
+* **"Video":** Put a link to talks' video if there're already online.
+* **"How to keep in touch sections":** Make different sections for meetups, WTD's slack, WTD's forum, mailing list, etc.
+* **"Notes":** Ask people who were attending unrecorded events (unconforence) if they have any notes they could share. Tell them how to do it.
+* **"Conclusion":** Thank people again and invite them to next year conference.
+
+`Thank you` emails from previous WTD conferences:
+
+* `WTD NA 2016 Thank you <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/thanks-for-coming.md>`_
+* `WTD NA 2015 Thank you <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/videos-forum-eu-cfp.md>`_
+* `WTD EU 2015 thank you <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/eu-thanks-for-coming.md>`_
 
 
 How to send email
