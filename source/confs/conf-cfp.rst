@@ -21,6 +21,24 @@ reviews should be given 1 week to review all the talk proposals.
 After this, we will have rate them following the below process,
 and have the final group meeting where we talk through the final schedule
 
+How to write a CFP?
+-------------------
+
+* **"Announcing [conf name] Call for Proposals":** Say hi and don't forget to mention when is the conference and when will close the CFP.
+* **"Conference Goals":** Invite everyone who care about docs to contribute!
+* **"Topic ideas":** To help potential speakers find a topic, list different subjects that make good talks. Add a few links to previous talks: it will help people get a better idea of what you want.
+* **"Presentation format":** Format is 30 minutes but invite people to contact you if they want to do something longer/shorter.
+* **"Speaker Benefits and Logistics":** Say if you cover ticket, travel cost and lodging for speakers.
+* **"Question?":** How people should contact you.
+* **"Submit a Proposal":** Link or form where people can send their proposal.
+
+`Call for Proposals` examples from previous WTD conferences:
+
+* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
+* `WTD NA 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
+* `WTD EU 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
+* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
+
 Selecting Talks
 ---------------
 
