@@ -10,15 +10,15 @@ but it's often best to send around 7-10 total emails for the conference.
 This section will cover emails sent to attendees. Communications with speakers and sponsors are covered in :doc:`conf-cfp` and :doc:`conf-sponsorship` sections.
 
 Emails to send
----------------
+--------------
 
 * Date Announcement
 * Call for Proposals
 * Ticket Prices
-* Keynotes (if applicable)
 * CFP reminder (1 week out)
-* Proposals
+* Announcing Presentations and Speakers
 * Auxiliary events (Hike, Writing Day, Reception, Party)
+* Welcome
 * Thank you
 
 Each email will continue to list additional sponsors added to the conference.
@@ -28,7 +28,9 @@ Email content
 
 It's easy to forget a key element while writing an email. Here's a description of what every type of email should content.
 
-If relevant, you should always mention your CFP (deadline and link to it) and your sponsors at the end of your emails.
+Feel free to adapt those emails to your need: you may want to combine two in one, add more content in some. For exemple, it's always a good idea to put a link to your CFP will it's still open, link and info about ticket sales, your sponsors, and all the little news that will get people excited about the conference.
+
+To help you get a better idea of what you need to write, we've put links to previous conferences' emails.
 
 Date Announcement
 ~~~~~~~~~~~~~~~~~
@@ -47,20 +49,12 @@ Date Announcement
 Call for Proposals
 ~~~~~~~~~~~~~~~~~~
 
-* **"Announcing [conf name] Call for Proposals":** Say hi and don't forget to mention when is the conference and when will close the CFP.
-* **"Conference Goals":** Invite everyone who care about docs to contribute!
-* **"Topic ideas":** To help potential speakers find a topic, list different subjects that make good talks. Add a few links to previous talks: it will help people get a better idea of what you want.
-* **"Presentation format":** Format is 30 minutes but invite people to contact you if they want to do something longer/shorter.
-* **"Speaker Benefits and Logistics":** Say if you cover ticket, travel cost and lodging for speakers.
-* **"Question?":** How people should contact you.
-* **"Submit a Proposal":** Link or form where people can send their proposal.
+Keep it short and go to the essential: friendly reminder that everyone can do it, link to the CFP, deadline.
 
-`Call for Proposals` emails from previous WTD conferences:
+`CFP` emails from previous WTD conferences:
 
-* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
-* `WTD NA 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
-* `WTD EU 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
-* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
+* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-tickets.rst>`_
+* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
 
 
 Ticket Prices
@@ -77,9 +71,6 @@ Ticket Prices
 * `WTD EU 2015 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-tickets.md>`_
 
 
-Keynotes (if applicable)
-~~~~~~~~~~~~~~~~~~~~~~~~
-
 CFP reminder (1 week out)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -88,12 +79,49 @@ Make it small: end of the CFP, where potential speakers can find help and previo
 `Call for Proposals reminder` emails from previous WTD conferences:
 
 * `WTD NA 2016 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-reminder.md>`_
+* `WTD EU 2015 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/eu-early-tickets-videos-cfp.md>`_
 
-Proposals
-~~~~~~~~~
 
-Auxiliary events
+Announcing Presentations and Speakers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **"Announcing Presentations and Speakers":** Get people excited!
+* **"Presentations":** Do a list of talks with speakers name and link to the abstract. You can add a few words at the end about how you selected the talks and if you plan to do lightning talks.
+
+`Announcing Presentations and Speakers` emails from previous WTD conferences:
+
+* `WTD NA 2016 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-presentations.md>`_
+* `WTD EU 2015 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-presentations.md>`_
+
+
+Auxiliary Events
 ~~~~~~~~~~~~~~~~
+
+Depending of what you plan, you will need to give different kind of info:
+
+* Name of the event.
+* Need to register or not.
+* Need to bring the conference badge or not.
+* Cover by ticket price or not.
+* Open to family or restricted.
+* Where it's happening. Where and when to meet if you plan to move.
+* Things people need to read or bring to the extra event.
+* For party: mention if there is food and/or beverages (alcoholic and soft).
+
+`Auxiliary events` emails from previous WTD conferences:
+
+* `WTD NA 2016 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/schedule-welcome-wagon-events.md>`_
+* `WTD NA 2015 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/more-conference-details.md>`_
+* `WTD NA 2015 Party <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/conference-sold-out-schedule-party.md>`_
+* `WTD EU 2015 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-events-sponsors-tickets.md>`_
+* `WTD EU 2015 Party <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-parties-sponsors.md>`_
+
+
+Welcome
+~~~~~~~
+
+
+
 
 Thank you
 ~~~~~~~~~
