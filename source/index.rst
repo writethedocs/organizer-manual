@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to the Write the Docs Organizer Manual!
-============================================
+===============================================
 
 This guide aims to help anyone who wants to start a local Write the Docs meetup or a regional conference. Our community is growing quickly and we want to provide resources, guidelines, and tips on how to build and maintain events no matter where you are in the world.
 
@@ -13,7 +13,7 @@ All the content in this guide and in the resources repositories is open source, 
 This guide covers the following types of Write the Docs events:
 
 .. toctree::
-   
+
    confs/conf-overview
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
@@ -24,4 +24,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-

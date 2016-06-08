@@ -6,7 +6,7 @@ Step-by-Step Checklist
 This section walks you through a timeline of the main tasks of conference-organizing, and roughly when you want to complete each task.
 
 5-6 months before
----------------
+-----------------
 * Venue
 * Dates
 * Budget
@@ -15,7 +15,7 @@ This section walks you through a timeline of the main tasks of conference-organi
 * Open CFP
 
 3-4 months before
----------------
+-----------------
 * Open ticket sales (+ launch speakers)
 * Close CFP and select talks
 * Compile initial sponsor list
