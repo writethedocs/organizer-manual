@@ -7,7 +7,7 @@ It's important to send emails to folks about various events.
 You can combine some of these emails,
 but it's often best to send around 7-10 total emails for the conference.
 
-This section will cover emails sent to attendees. Communications with speakers and sponsors are covered in :doc:`conf-cfp` and :doc:`conf-sponsorship` sections.
+This section will cover emails sent to attendees. Communications with speakers and sponsors are covered in :doc:`cfp` and :doc:`sponsorship` sections.
 
 Emails to send
 --------------
@@ -28,7 +28,7 @@ Email content
 
 It's easy to forget a key element while writing an email. Here's a description of what every type of email should content.
 
-Feel free to adapt those emails to your need: you may want to combine two in one, add more content in some. For exemple, it's always a good idea to put a link to your CFP will it's still open, link and info about ticket sales, your sponsors, and all the little news that will get people excited about the conference.
+Feel free to adapt those emails to your need: you may want to combine two in one, add more content in some. For example, it's always a good idea to put a link to your CFP will it's still open, link and info about ticket sales, your sponsors, and all the little news that will get people excited about the conference.
 
 To help you get a better idea of what you need to write, we've put links to previous conferences' emails.
 
@@ -60,7 +60,7 @@ Keep it short and go to the essential: friendly reminder that everyone can do it
 Ticket Prices
 ~~~~~~~~~~~~~
 
-* **"Announcing Ticket Sales":** Write a small introduction which include when is happening the conference and a link to its website.
+* **"Announcing Ticket Sales":** Write a small introduction which includes when is happening the conference and a link to its website.
 * **"Tickets":** Describe your price policy and, if relevant, if you have any scholarship tickets.
 * **"Ticket Sales":** List your different tickets (corporate, independent, student) on normal and early bird prices. Don't forget to describe our your early bird price works.
 * **"Conclusion":** Say a few nice words :)
@@ -97,7 +97,7 @@ Announcing Presentations and Speakers
 Auxiliary Events
 ~~~~~~~~~~~~~~~~
 
-Depending of what you plan, you will need to give different kind of info:
+Depending on what you plan, you will need to give different kind of info:
 
 * Name of the event.
 * Need to register or not.
@@ -106,7 +106,7 @@ Depending of what you plan, you will need to give different kind of info:
 * Open to family or restricted.
 * Where it's happening. Where and when to meet if you plan to move.
 * Things people need to read or bring to the extra event.
-* For party: mention if there is food and/or beverages (alcoholic and soft).
+* For the party: mention if there is food and/or beverages (alcoholic and soft).
 
 `Auxiliary events` emails from previous WTD conferences:
 
@@ -136,7 +136,7 @@ Thank you
 
 * **"Thank you":** Give stats if you have any and thank people for coming.
 * **"Survey":** Put a link to attendees survey if relevant.
-* **"Video":** Put a link to talks' video if there're already online.
+* **"Video":** Put a link to talks' video if they're already online.
 * **"How to keep in touch sections":** Make different sections for meetups, WTD's slack, WTD's forum, mailing list, etc.
 * **"Notes":** Ask people who were attending unrecorded events (unconforence) if they have any notes they could share. Tell them how to do it.
 * **"Conclusion":** Thank people again and invite them to next year conference.
@@ -152,8 +152,8 @@ How to send email
 -----------------
 
 We write up the emails to send and post them on out blog.
-Generally it's best to send a tweet with the blog post,
-and then wait an hour or two to send the email.
+Generally, it's best to send a tweet with the blog post,
+and then wait for an hour or two to send the email.
 This gives folks time to spot errors so we can fix them before sending the email :)
 
 Process
