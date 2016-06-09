@@ -1,8 +1,3 @@
-.. Organizer Manual documentation master file, created by
-   sphinx-quickstart on Sun May 17 22:11:09 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to the Write the Docs Organizer Manual!
 ===============================================
 
@@ -13,8 +8,19 @@ All the content in this guide and in the resources repositories is open source, 
 This guide covers the following types of Write the Docs events:
 
 .. toctree::
+   
+   checklist
+   orgteam
+   budget
+   venues-logistics
+   sponsorship
+   cfp
+   communication
+   tickets
+   volunteers
+   web-resources
+   print-resources
 
-   confs/conf-overview
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
 
@@ -24,3 +30,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
