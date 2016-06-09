@@ -9,17 +9,17 @@ This guide covers the following types of Write the Docs events:
 
 .. toctree::
    
-   checklist
-   orgteam
-   budget
-   venues-logistics
-   sponsorship
-   cfp
-   communication
-   tickets
-   volunteers
-   web-resources
-   print-resources
+   confs/checklist
+   confs/orgteam
+   confs/budget
+   confs/venues-logistics
+   confs/sponsorship
+   confs/cfp
+   confs/communication
+   confs/tickets
+   confs/volunteers
+   confs/web-resources
+   confs/print-resources
 
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
