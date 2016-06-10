@@ -11,6 +11,7 @@ This guide covers the following types of Write the Docs events:
    
    confs/checklist
    confs/orgteam
+   confs/organizers
    confs/budget
    confs/venues-logistics
    confs/sponsorship
