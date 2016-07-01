@@ -67,80 +67,16 @@ and probably again in person.
 .. note:: Do we have a NA / EU variable? And City ?
 
 Speaker Acceptance Template
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block:: jinja
-
-  Hi {{First Name}},
-
-  Thanks so much for submitting a proposal to speak at this year's Write the Docs {{Location}}. Our talk selection committee has just wrapped up the review process and we'd love it if you could join us as a speaker!
-
-  We think your '{{Talk Title}}' talk would be a great fit for the conference. We'd love to have you prepare it for a *30-minute* time slot.
-
-  So, from here, your first step is to reply to this email and as soon as possible, to confirm that:
-
-  a) you're still interested in presenting in {{City}} on {{date}}. We'll confirm exact slots at a later date.
-  b) you'll be attending *the whole conference*. So much of the value of Write the Docs comes from the community interactions, so it's really important to us that our speakers are around to participate.
-
-  Next, there are a few housekeeping things:
-
-  * Get your free speaker ticket: {{Tickets}}
-  * If you already purchased a ticket, let us know, and we will issue you a refund.
-  * Send us a colour 300 x 300px headshot, and twitter handle (optional) to accompany your talk abstract on the website.
-  * Send us any changes you would like to make to your abstract before we publish it.
-  * Finally, when you're sharing the good news, make sure to tag your posts with '#writethedocs'!
-
-  Okay, now that's all out of the way, it's time for the fun part--preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
-
-  * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. When you're writing your talk (just like you're when writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargony language, and make sure you clearly express what people are going to learn from your talk.
-  * If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off of, to review drafts, and to general help you refine your talk before the conference.
-  * Make sure you plan your to talk to fit in the allotted time. Also, note that we will not be pausing for questions after your presentation. Instead, we encourage attendees to chat with our speakers during the breaks, or down in our unconference space.
-  * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
-
-  Before you get too absorbed in talk prep, though, please send us an email confirming that you'll be joining us! :) If you're concerned about travel details or expenses, let us know and we can discuss options. As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
-
-  Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! Feel free to email us with any questions, concerns, or ideas.
-
-  Thanks for helping make this year's conference another great one!
-
-  The Write the Docs Team
-
+.. literalinclude:: emails/cfp-acceptance.jinja
+   :language: jinja
 
 Thunderstorm Template
 ~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block:: jinja
-
-	Hi {{First Name}},
-
-	Thanks so much for submitting a proposal to speak at this year's Write the Docs North America. Our talk selection committee has just wrapped up our review and we'd love it if you could join us as a speaker! We think your {{Talk Title}}  talk would be a great fit for the conference.
-
-	We're hoping, though, that we might ask you to participate in something new we're trying this year -- Write the Docs thunderstorm sessions! To mix up the cadence of the conference a little, we're going to be interspersing several pairs of back-to-back 15-minute talks. We're thinking of them like a the big brother of a lightning talk (thunderstorms! get it?). So if you're game, we'd love to have you prepare the talk you proposed, just distilled down into the tightest, punchiest version of itself.
-
-	So, from here, your first step is to reply to this here email and as soon as possible, to confirm that a) you're still interested in presenting and b) you'll be available to attend **the whole conference** in Portland, from May 22-24, 2016. So much of the value of Write the Docs comes from the community interactions, so it's really important to us that our speakers are around to participate for the whole event.
-
-	Next, there's a few housekeeping things:
-
-	* Get your free speaker ticket! If you already purchased a ticket, let us know, and we will issue you a refund. Otherwise, pick up your free ticket here: https://ti.to/writethedocs/write-the-docs-na-2016/with/joeuvutda7s
-	* Send us a 300 x 300px headshot (in color please!) to accompany your talk abstract on the website.
-	* Speaking of your abstract, if you have any changes you would like to make to your abstract before we publish it, please send us an updated copy as soon as possible.
-	* If you'd like us to include your Twitter handle or other contact info, send it on and we can include it with your bio.
-	* Finally, when you're sharing the good news, make sure to tag your posts with #writethedocs!
-
-	Okay, now that's all out of the way, it's time for the fun part--preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
-
-	* Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. When you're writing your talk (just like you're when writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargony language, and make sure you clearly express what people are going to learn from your talk.
-	* If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off of, to review drafts, and to general help you refine your talk before the conference.
-	* Make sure you plan your to talk to fit in the allotted time. Also, note that we will not be pausing for questions after your presentation. Instead, we encourage attendees to chat with our speakers during the breaks, or down in our unconference space.
-	* Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
-
-	Before you get too absorbed in talk prep, though, please send us an email confirming that you'll be joining us! :) If you're concerned about travel details or expenses, let us know and we can discuss options. As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
-
-	Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! Feel free to email us with any questions, concerns, or ideas.
-
-	Thanks for helping make this year's conference another great one!
-
-	The Write the Docs Team
+.. literalinclude:: emails/cfp-thunderstorm.jinja
+   :language: jinja
 
 Speaker Rejection Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,10 +85,8 @@ This template varies by the rejection.
 We reject folks in a couple different rounds,
 which I'll document here.
 
-
-.. code-block:: jinja
-
-	TODO
+.. literalinclude:: emails/cfp-rejection.jinja
+   :language: jinja
 
 Building a Schedule
 -------------------
