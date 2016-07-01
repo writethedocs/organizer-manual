@@ -64,8 +64,6 @@ most speakers don't really read their email.
 This means you need to tell them everything important at least twice,
 and probably again in person.
 
-.. note:: Do we have a NA / EU variable? And City ?
-
 Speaker Acceptance Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
