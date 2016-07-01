@@ -67,77 +67,24 @@ and probably again in person.
 Speaker Acceptance Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block:: jinja
+.. literalinclude:: emails/cfp-acceptance.jinja
+   :language: jinja
 
-	{{ name }},
+Thunderstorm Template
+~~~~~~~~~~~~~~~~~~~~~
 
-	Our talk selection committee has just wrapped up proposal review and we would
-	like to invite you speak at Write the Docs! The conference this year will be
-	held on {{ date }}.
-
-	Title: {{ title }}
-
-	{{ Personalized bit about topic }}
-
-	I've included your original proposal at the bottom of this email, for your reference.
-
-	With that said, here's what you should do next:
-
-	 * Reply to this email to confirm that you're in! Let us know that you're
-	   planning to attend and speak, and that you agree to the guidelines below.
-	 * Include a 300 x 300px color photo of your face. We will use this headshot
-	   alongside your presentation description.
-	 * If you want your Twitter handle published with your other details, include
-	   that as well.
-	 * Get your free speaker ticket! If you already purchased a ticket, we will be
-	   refunding your ticket. Otherwise, pick up your free ticket here:
-
-	     {{ ticket_url }}
-
-	 * Send us any changes to your abstract. If you have any updates you would like
-	   to make, or any of our feedback you want to incorporate, feel free to send us
-	   an edited talk abstract.
-	 * If you want to share this news, be sure to tag your posts with #writethedocs
-
-	So you're all ready to speak? Good. Let's get down to brass tacks:
-
-	 * Plan on attending both days of the event. We encourage your participation in
-	   the entire event and will not be publishing the full presentation schedule
-	   until shortly before the event.
-	 * Your talk should be 30 minutes. *We will not be pausing for questions* after
-	   your presentation. Attendees will be encouraged to approach the stage with
-	   any feedback or questions during the break after each talk.
-	 * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/).
-	   Your talk is subject to these guidelines and should not have any sexual or
-	   offensive content. If you have any questions about this feel free to email
-	   myself or one of the other conference organizers. Generally, if you think any
-	   content in your presentation might be an issue, leave it out.
-	 * If you're concerned by travel details or expenses, contact us and we can
-	   discuss options.
-
-	We encourage you to confirm your details as soon as you can. As we confirm your
-	details, we'll publish your abstract, headshot, and information on the
-	conference site.  We'll also be emailing attendees to drum up anticipation for
-	the talks we'll be presenting this year.
-
-	Thanks again for submitting your talk, we look forward to having you join us!
-	Feel free to email us with any questions, concerns, or ideas.
-
-	Look forward to seeing you at Write the Docs!
-
+.. literalinclude:: emails/cfp-thunderstorm.jinja
+   :language: jinja
 
 Speaker Rejection Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This template varies by the rejection.
 We reject folks in a couple different rounds,
-which I'll document here. 
+which I'll document here.
 
-
-.. code-block:: jinja
-	
-	TODO
-
+.. literalinclude:: emails/cfp-rejection.jinja
+   :language: jinja
 
 Building a Schedule
 -------------------
@@ -163,4 +110,3 @@ Biases
 * New people
 * Community members
 * Previous lighting talk speakers
-* 
