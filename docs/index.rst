@@ -11,7 +11,6 @@ This guide covers the following aspects of Write the Docs events:
    
    confs/checklist
    confs/orgteam
-   confs/organizers
    confs/event-roles.rst
    confs/budget
    confs/venues-logistics
