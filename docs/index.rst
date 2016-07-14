@@ -25,6 +25,8 @@ This guide covers the following aspects of Write the Docs events:
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
 
+If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
+
 Indices and tables
 ==================
 
