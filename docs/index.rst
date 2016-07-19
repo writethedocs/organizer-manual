@@ -19,6 +19,7 @@ This guide covers the following aspects of Write the Docs events:
    confs/communication
    confs/tickets
    confs/volunteers
+   confs/community-roles.rst
    confs/web-resources
    confs/print-resources
 
